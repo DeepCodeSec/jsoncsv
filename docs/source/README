@@ -1,0 +1,5 @@
+Run `sphinx-apidoc -o . ../../jsoncsv' in this directory.
+
+This will generate `modules.rst' and `jsoncsv.rst'.
+
+Then include `modules.rst' in your `index.rst' file.
